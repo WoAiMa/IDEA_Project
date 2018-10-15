@@ -1,1 +1,1 @@
-# IDEA_Projrct
+# IDEA_Project
